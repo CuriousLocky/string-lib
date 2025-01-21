@@ -1,0 +1,8 @@
+# idea configuration
+.idea
+
+# trace data
+graal-config
+
+# built objects
+target
